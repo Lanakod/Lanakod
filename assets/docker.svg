@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="74" height="28" viewBox="0 0 74 28" role="img" aria-label="Docker">
+  <title>Docker</title>
+  <rect x="0.5" y="0.5" width="73" height="27" rx="5" fill="#161B22" stroke="#30363D" />
+  <rect x="9" y="10" width="3" height="8" rx="1.5" fill="#2496ED" />
+  <text x="20" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="500" fill="#E6EDF3">Docker</text>
+</svg>
